@@ -1,0 +1,1 @@
+if you are crashing drag the "pdr" File into documents Then install the Font And it should be fixed.
